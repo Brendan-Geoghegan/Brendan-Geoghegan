@@ -1,3 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+my+name+is+Brendan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4078C0&width=435&lines=Hi+my+name+is+Brendan)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Brendan-Geoghegan&theme=onedark&rank=S,AAA,A&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendan-Geoghegan&hide=contribs,prs&theme=github_dark)
+
