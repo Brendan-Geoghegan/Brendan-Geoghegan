@@ -3,7 +3,7 @@
 ### A few things about me:
 - ⚙️ A mechanical engineering graduate from the University of Southampton
 - 🧑‍💻 Looking to move into a career in tech
-- 📑 Trainee at Futureproof 
+- 📖 Trainee at Futureproof 
 - 💻 Coding in JavaScript, Python, NodeJS and React
 - 🧗 I love rock climbing with my friends
 - 🏃 **Personal challenge:** to run as many different Parkruns as possible
