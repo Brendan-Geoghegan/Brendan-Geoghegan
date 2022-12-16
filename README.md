@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4078C0&width=435&lines=Hi+my+name+is+Brendan)](https://git.io/typing-svg)
 
-## A few things about me:
+### A few things about me:
 - ⚙️ A mechanical engineering graduate from the University of Southampton
 - 🧑‍💻 Looking to move into a career in tech
 - 📑 Trainee at Futureproof 
